@@ -1,6 +1,6 @@
 # Kodluyoruz Front-End Eğitimi 2.Ödev
 
-Bu repo [https://kodluyoruz.org](Kodluyoruz) Front-End Eğitiminde verilen 2.Ödevi içeriyor. İçerisinde bir adet README dosyası,index.hmtl, about-me.html ve contact.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde verilen 2.Ödevi içeriyor. İçerisinde bir adet README dosyası,index.hmtl, about-me.html ve contact.html barındırıyor.
 
 ## Installation
 
@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[https://choosealicense.com/](MIT)
+[MIT](https://choosealicense.com/)
